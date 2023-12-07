@@ -16,7 +16,4 @@ setup(
     author_email='patelraghav014@gamil.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
-
-
-
 )
