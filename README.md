@@ -1,6 +1,11 @@
 # MACHINE LERNING PROJECT
 
-# DIAMOND PRICE PRDICTOR PROJECT WITH MODULAR CODING TECHNIQUE
+# End To End DiamondPricePrediction Project
+
+# how to run?
+```bash
+https://github.com/raghavpatel2507/DiamondPricePrediction.git
+```
 
  STEP1:
  ```bash
@@ -46,9 +51,6 @@ WE CREATE A LAST FOLDER APPLICTION.PY
  ```bash
 WE RUN THE APPLICTION.PY FILE
 ```
-
-## how to run?
-```bash
 
 
  ___________________________________________ XXXXX________________________________________
